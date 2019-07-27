@@ -1,0 +1,70 @@
+#selected-projects {
+    .subtitle {
+        width: 100%;
+    }
+
+    .subtitle a {
+        font-weight: bold;
+
+        span {
+            display: inline-block;
+            margin-bottom: 1.5rem;
+        }
+    }
+}
+
+.tag,
+.project-thumb {
+    box-shadow: 0 2px 3px rgba(0, 0, 0, .2);
+}
+
+.tag {
+    cursor: default;
+    user-select: none;
+}
+
+.project-thumb {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 1.5rem;
+    border-radius: 3px;
+    border: 5px solid white;
+    transition: all 200ms ease;
+
+    &:hover {
+        transform: translateY(-3px);
+    }
+}
+
+.column--emues {
+    .tag {
+        background-color: #01acd2;
+        color: white;
+    }
+
+    .project-thumb {
+        background-image: url('../images/emues.png');
+    }
+}
+
+.column--matdagboken {
+    .tag {
+        background-color: #f28714;
+        color: white;
+    }
+
+    .project-thumb {
+        background-image: url('../images/matdagboken.png');
+    }
+}
+
+.column--alertsenior {
+    .tag {
+        background-color: #248d7b;
+        color: white;
+    }
+
+    .project-thumb {
+        background-image: url('../images/alertsenior.png');
+    }
+}
