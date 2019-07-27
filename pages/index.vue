@@ -11,7 +11,7 @@
               <h2 class="subtitle">
                 <p>Jag är en full-stack webbutvecklare med många års erfarenhet lokaliserad i Malmö-regionen. Nästan alla mina nya projekt är baserade på PHP-ramverket <a href="https://laravel.com" target="_blank">Laravel</a> samt <a href="https://vuejs.org" target="_blank">Vue.js</a>.</p>
                 <p>För närvarande jobbar jag heltid på ett företag inom <a href="https://sv.wikipedia.org/wiki/Fintech" target="_blank">finansteknologi</a>. Utöver ordinarie kontorstider utför jag gärna mindre frilansarbeten.</p>
-                <p>Du är välkommen att <a href="/kontakta">ta kontakt</a> med mig!</p>
+                <p>Du är välkommen att <a href="mailto:jonas@holmstrom.me">ta kontakt</a> med mig!</p>
               </h2>
             </div>
           </div>
