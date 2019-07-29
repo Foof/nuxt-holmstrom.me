@@ -5,11 +5,11 @@
         <a href="/" class="navbar-item">
           {{ brand }}
         </a>
-        <span class="navbar-burger burger" :class="{ 'is-active': showMobileNav }" @click="toggleNav">
+        <!-- <span class="navbar-burger burger" :class="{ 'is-active': showMobileNav }" @click="toggleNav">
           <span />
           <span />
           <span />
-        </span>
+        </span> -->
       </div>
       <div class="navbar-menu" :class="{ 'is-active': showMobileNav }">
         <div class="navbar-end">
