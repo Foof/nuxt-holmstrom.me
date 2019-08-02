@@ -33,7 +33,7 @@
                 <span class="icon">
                   <i class="fa fa-twitter" aria-hidden="true" />
                 </span>
-                <a href="https://twitter.com/notnotjonas" target="_blank">@notnotjonas</a>
+                <a href="https://twitter.com/notnotjonas" target="_blank">Twitter</a>
               </li>
               <li>
                 <span class="icon">
@@ -45,7 +45,7 @@
                 <span class="icon">
                   <i class="fa fa-github" aria-hidden="true" />
                 </span>
-                <a href="https://github.com/Foof" target="_blank">Foof</a>
+                <a href="https://github.com/Foof" target="_blank">Github</a>
               </li>
             </ul>
           </div>
